@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\bin\Debug\FabricaRestaurants.exe.config
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\bin\Debug\FabricaRestaurants.exe
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\bin\Debug\FabricaRestaurants.pdb
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\obj\Debug\FabricaRestaurants.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\obj\Debug\FabricaRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\obj\Debug\FabricaRestaurants.exe
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\obj\Debug\FabricaRestaurants.pdb
+C:\Users\user\source\repos\FabricaRestaurants\FabricaRestaurants\obj\Debug\FabricaRestaurants.exe.config

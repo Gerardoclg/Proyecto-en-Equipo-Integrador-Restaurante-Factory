@@ -1,0 +1,28 @@
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.exe
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.deps.json
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.runtimeconfig.json
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.dll
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.pdb
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.AssemblyInfoInputs.cache
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.AssemblyInfo.cs
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.dll
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\refint\FabricaRestaurants.dll
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.pdb
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.genruntimeconfig.cache
+C:\Users\joeli\Downloads\FabricaRestaurants_WinForms (2)\proyecto\obj\Debug\net8.0-windows\ref\FabricaRestaurants.dll
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.exe
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.deps.json
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.runtimeconfig.json
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.dll
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\bin\Debug\net8.0-windows\FabricaRestaurants.pdb
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.AssemblyInfoInputs.cache
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.AssemblyInfo.cs
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.csproj.CoreCompileInputs.cache
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.dll
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\refint\FabricaRestaurants.dll
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.pdb
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\FabricaRestaurants.genruntimeconfig.cache
+C:\Users\joeli\OneDrive\Escritorio\FabricaRestaurante\proyecto\obj\Debug\net8.0-windows\ref\FabricaRestaurants.dll

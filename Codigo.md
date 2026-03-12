@@ -522,3 +522,22 @@ namespace FabricasRestaurantes
 }
 
 ````
+
+## Capturas
+### Restaurante Chino
+<img width="483" height="271" alt="image" src="https://github.com/user-attachments/assets/c26bab8a-ce76-4ba2-a5bc-ea1539b9fc0a" />
+
+### Restaurante Japonés
+<img width="489" height="278" alt="image" src="https://github.com/user-attachments/assets/080b11db-d3e3-472a-80ef-29c912b7cc41" />
+
+
+### Restaurante Mexicano
+<img width="508" height="284" alt="image" src="https://github.com/user-attachments/assets/90ab55bd-573a-4212-b16c-2c20a23c6a89" />
+
+
+### Restaurante Italiano
+<img width="515" height="275" alt="image" src="https://github.com/user-attachments/assets/0d2da273-a4f5-489e-8e20-ef8e8131516a" />
+
+
+### Restaurante Francés
+<img width="519" height="277" alt="image" src="https://github.com/user-attachments/assets/ea54d206-a2e4-450e-a88d-994701a41b22" />

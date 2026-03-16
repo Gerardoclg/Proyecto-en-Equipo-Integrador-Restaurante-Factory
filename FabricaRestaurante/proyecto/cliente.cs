@@ -1,34 +1,64 @@
-﻿using System;
+﻿using FabricasRestaurantes;
+using System;
 
 namespace FabricasRestaurantes
 {
-
-
-    public class Cliente
+    internal class FabricaRestaurantes
     {
-        private readonly RestauranteFactory _fabrica;
-
-
-        public Cliente(RestauranteFactory fabrica)
+        static void Main(string[] args)
         {
-            _fabrica = fabrica;
-        }
+            RestauranteFactory fabrica;
 
 
-        public void GenerarMenu()
-        {
-            PlatoFuerte plato = _fabrica.CrearPlatoFuerte();
-            Bebida bebida = _fabrica.CrearBebida();
-            Postre postre = _fabrica.CrearPostre();
+            fabrica = new RestauranteChino();
+            PlatoFuerte plato = fabrica.CrearPlatoFuerte();
+            Bebida bebida = fabrica.CrearBebida();
+            Postre postre = fabrica.CrearPostre();
+            Console.WriteLine($"Plato:  {plato.Servir()}");
+            Console.WriteLine($"Bebida: {bebida.Servir()}");
+            Console.WriteLine($"Postre: {postre.Servir()}");
+            Console.WriteLine();
 
 
-            Console.WriteLine("╔══════════════════════════════╗");
-            Console.WriteLine("║         MENÚ DEL DÍA         ║");
-            Console.WriteLine("╠══════════════════════════════╣");
-            Console.WriteLine($"║  Plato fuerte : {plato.Servir(),-14}║");
-            Console.WriteLine($"║  Bebida       : {bebida.Servir(),-14}║");
-            Console.WriteLine($"║  Postre       : {postre.Servir(),-14}║");
-            Console.WriteLine("╚══════════════════════════════╝");
+            fabrica = new RestauranteJapones();
+            plato = fabrica.CrearPlatoFuerte();
+            bebida = fabrica.CrearBebida();
+            postre = fabrica.CrearPostre();
+            Console.WriteLine($"Plato:  {plato.Servir()}");
+            Console.WriteLine($"Bebida: {bebida.Servir()}");
+            Console.WriteLine($"Postre: {postre.Servir()}");
+            Console.WriteLine();
+
+
+            fabrica = new RestauranteMexicano();
+            plato = fabrica.CrearPlatoFuerte();
+            bebida = fabrica.CrearBebida();
+            postre = fabrica.CrearPostre();
+            Console.WriteLine($"Plato:  {plato.Servir()}");
+            Console.WriteLine($"Bebida: {bebida.Servir()}");
+            Console.WriteLine($"Postre: {postre.Servir()}");
+            Console.WriteLine();
+
+            fabrica = new RestauranteItaliano();
+            plato = fabrica.CrearPlatoFuerte();
+            bebida = fabrica.CrearBebida();
+            postre = fabrica.CrearPostre();
+            Console.WriteLine($"Plato:  {plato.Servir()}");
+            Console.WriteLine($"Bebida: {bebida.Servir()}");
+            Console.WriteLine($"Postre: {postre.Servir()}");
+            Console.WriteLine();
+
+
+            fabrica = new RestauranteFrances();
+            plato = fabrica.CrearPlatoFuerte();
+            bebida = fabrica.CrearBebida();
+            postre = fabrica.CrearPostre();
+            Console.WriteLine($"Plato:  {plato.Servir()}");
+            Console.WriteLine($"Bebida: {bebida.Servir()}");
+            Console.WriteLine($"Postre: {postre.Servir()}");
+            Console.WriteLine();
+
+            Console.ReadKey();
         }
     }
 }
